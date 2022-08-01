@@ -10,7 +10,7 @@ bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-    bot.send_message(message.from_user.id, 'С тебя стикер, с меня файл')
+    bot.send_message(message.from_user.id, 'Стикером бью стикер!')
 
 
 @bot.message_handler(content_types=['sticker'])
