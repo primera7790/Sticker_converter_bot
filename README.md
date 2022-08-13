@@ -5,4 +5,4 @@ Sends back stickers that have been sent.
 Converts sent stickers and sends them back in .png format.
 
 # notification
-Operation is possible if you have a .env file with the token and the path to the conversion folder
+Operation is possible if you have a .env file with the token and the path to the conversion folder.
