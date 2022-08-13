@@ -1,7 +1,7 @@
-# sticker_bot
+# sticker_bot.py
 Sends back stickers that have been sent.
 
-# sticker_bot_webp_to_png
+# sticker_bot_webp_to_png.py
 Converts sent stickers and sends them back in .png format.
 
 # notification
