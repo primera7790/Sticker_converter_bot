@@ -3,7 +3,7 @@ import telebot
 from dotenv import load_dotenv
 from PIL import Image
 
-load_dotenv()
+load_dotenv('./data/env/.env')
 
 TOKEN = os.environ.get('S_TOKEN')
 bot = telebot.TeleBot(TOKEN)
