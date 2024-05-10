@@ -11,7 +11,7 @@
   &nbsp; &nbsp; Бот, сумевший найти свое призвание в этом мире. И ни действия более.
 
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp;<img width='500px' src='https://github.com/primera7790/Sticker_converter_bot/blob/master/data/images/bot_presentation.PNG' alt='bot_presentation'/>
+ &nbsp;&nbsp;&nbsp;&nbsp;<img width='500px' src='https://github.com/primera7790/Sticker_converter_bot/blob/master/data/images/presentation.PNG' alt='bot_presentation'/>
 </p>
 
-&nbsp; &nbsp; Обе команды, и /start и /help, инициируют начало диалога.
+
