@@ -1,5 +1,8 @@
 # Telegram бот-конвертер стикеров в .png формат
 
+## Ссылка
+https://t.me/sticker_to_pdf_bot
+
 ## Технологии
   - Язык программирования: &nbsp; `python` ;
   - Основные библиотеки: &nbsp; `pyTelegramBotAPI` , `pillow` .
