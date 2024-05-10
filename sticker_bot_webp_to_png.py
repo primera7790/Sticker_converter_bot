@@ -9,7 +9,7 @@ TOKEN = os.environ.get('S_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 
 
-@bot.message_handler(commands=['start', 'help'])
+@bot.message_handler(commands=['start'])
 def send_welcome(message):
     bot.send_message(message.from_user.id, 'С тебя стикер, с меня .png файл')
 
